@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Tablice\bin\Debug\Tablice.exe.config
+D:\dev\Szopa\Szopa\Tablice\bin\Debug\Tablice.exe
+D:\dev\Szopa\Szopa\Tablice\bin\Debug\Tablice.pdb
+D:\dev\Szopa\Szopa\Tablice\obj\Debug\Tablice.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Tablice\obj\Debug\Tablice.exe
+D:\dev\Szopa\Szopa\Tablice\obj\Debug\Tablice.pdb
+D:\dev\Szopa\Szopa\Tablice\obj\Debug\Tablice.csprojAssemblyReference.cache

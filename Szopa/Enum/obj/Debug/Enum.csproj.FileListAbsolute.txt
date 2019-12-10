@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Enum\bin\Debug\Enum.exe.config
+D:\dev\Szopa\Szopa\Enum\bin\Debug\Enum.exe
+D:\dev\Szopa\Szopa\Enum\bin\Debug\Enum.pdb
+D:\dev\Szopa\Szopa\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Enum\obj\Debug\Enum.exe
+D:\dev\Szopa\Szopa\Enum\obj\Debug\Enum.pdb

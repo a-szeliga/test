@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Szopa\obj\Debug\Basics.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Szopa\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Szopa\obj\Debug\Szopa.exe
+D:\dev\Szopa\Szopa\Szopa\obj\Debug\Szopa.pdb
+D:\dev\Szopa\Szopa\Szopa\bin\Debug\Szopa.exe.config
+D:\dev\Szopa\Szopa\Szopa\bin\Debug\Szopa.exe
+D:\dev\Szopa\Szopa\Szopa\bin\Debug\Szopa.pdb

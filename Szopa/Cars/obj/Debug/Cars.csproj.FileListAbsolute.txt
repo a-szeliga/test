@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Cars\bin\Debug\Cars.exe.config
+D:\dev\Szopa\Szopa\Cars\bin\Debug\Cars.exe
+D:\dev\Szopa\Szopa\Cars\bin\Debug\Cars.pdb
+D:\dev\Szopa\Szopa\Cars\obj\Debug\Cars.exe
+D:\dev\Szopa\Szopa\Cars\obj\Debug\Cars.pdb

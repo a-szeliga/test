@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\dev\Szopa\Szopa\Kalkulator\bin\Debug\Kalkulator.exe
+D:\dev\Szopa\Szopa\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\dev\Szopa\Szopa\Kalkulator\obj\Debug\Kalkulator.exe
+D:\dev\Szopa\Szopa\Kalkulator\obj\Debug\Kalkulator.pdb

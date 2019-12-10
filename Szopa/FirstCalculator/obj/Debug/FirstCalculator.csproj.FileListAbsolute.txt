@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\FirstCalculator\obj\Debug\FirstCalculator.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\FirstCalculator\obj\Debug\FirstCalculator.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\FirstCalculator\bin\Debug\FirstCalculator.exe.config
+D:\dev\Szopa\Szopa\FirstCalculator\bin\Debug\FirstCalculator.exe
+D:\dev\Szopa\Szopa\FirstCalculator\bin\Debug\FirstCalculator.pdb
+D:\dev\Szopa\Szopa\FirstCalculator\obj\Debug\FirstCalculator.exe
+D:\dev\Szopa\Szopa\FirstCalculator\obj\Debug\FirstCalculator.pdb

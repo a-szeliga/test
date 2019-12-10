@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Phn\obj\Debug\Phn.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Phn\obj\Debug\Phn.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Phn\bin\Debug\Phn.exe.config
+D:\dev\Szopa\Szopa\Phn\bin\Debug\Phn.exe
+D:\dev\Szopa\Szopa\Phn\bin\Debug\Phn.pdb
+D:\dev\Szopa\Szopa\Phn\obj\Debug\Phn.exe
+D:\dev\Szopa\Szopa\Phn\obj\Debug\Phn.pdb

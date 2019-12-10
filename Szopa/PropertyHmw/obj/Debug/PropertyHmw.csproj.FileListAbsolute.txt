@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\PropertyHmw\bin\Debug\PropertyHmw.exe.config
+D:\dev\Szopa\Szopa\PropertyHmw\bin\Debug\PropertyHmw.exe
+D:\dev\Szopa\Szopa\PropertyHmw\bin\Debug\PropertyHmw.pdb
+D:\dev\Szopa\Szopa\PropertyHmw\obj\Debug\PropertyHmw.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\PropertyHmw\obj\Debug\PropertyHmw.exe
+D:\dev\Szopa\Szopa\PropertyHmw\obj\Debug\PropertyHmw.pdb
+D:\dev\Szopa\Szopa\PropertyHmw\obj\Debug\PropertyHmw.csprojAssemblyReference.cache

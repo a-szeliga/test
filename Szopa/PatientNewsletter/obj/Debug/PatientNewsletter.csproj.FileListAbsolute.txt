@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\PatientNewsletter\obj\Debug\PatientNewsletter.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\PatientNewsletter\obj\Debug\PatientNewsletter.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\PatientNewsletter\bin\Debug\PatientNewsletter.exe.config
+D:\dev\Szopa\Szopa\PatientNewsletter\bin\Debug\PatientNewsletter.exe
+D:\dev\Szopa\Szopa\PatientNewsletter\bin\Debug\PatientNewsletter.pdb
+D:\dev\Szopa\Szopa\PatientNewsletter\obj\Debug\PatientNewsletter.exe
+D:\dev\Szopa\Szopa\PatientNewsletter\obj\Debug\PatientNewsletter.pdb
