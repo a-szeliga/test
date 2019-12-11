@@ -8,30 +8,16 @@ namespace PatientNewsletter.Classes
 {
     public class Address
     {
+        public string FullAddress { get; private set; }       
 
-
-
-        public string FullAddress { get; set; }
-        // public string FullAddress { get { return fullAddress; } set { } }
-
-
-        private void PrepareAddress(string _city, string _street)
+        public Address(string _city, string _street)
         {
-      
-        // fullAddress = _city + _street;
-            
+            PrepareAddress(_city, _street);
         }
-    
-        
-        
-     
+
+        private void PrepareAddress(string city, string street)
+        {            
+            FullAddress = city + street;            
+        }             
     }
 }            
-    
-
-/*
-Klasa Adress będzie składać się z jednej właściwości FullAdress.
-Właściwość tą będzie ustawiać tylko i wyłącznie prywatna metoda PrepareAdress(), nie ma być możliwości ustawiania tej właściwości z zewnątrz.
-Metoda PrepareAdress będzie wywołana w konstruktorze i będzie sklejać prywatne pola _city + _street i przypisywać do FullAdress.
-*/
-  
