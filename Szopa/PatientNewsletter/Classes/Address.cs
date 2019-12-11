@@ -10,14 +10,16 @@ namespace PatientNewsletter.Classes
     {
 
 
-     //   private string fullAddress;
 
-        public string FullAddress { get { return FullAddress; } set { } }
+        public string FullAddress { get; set; }
+        // public string FullAddress { get { return fullAddress; } set { } }
+
 
         private void PrepareAddress(string _city, string _street)
         {
-
-            FullAddress = _city + _street;
+      
+        // fullAddress = _city + _street;
+            
         }
     
         

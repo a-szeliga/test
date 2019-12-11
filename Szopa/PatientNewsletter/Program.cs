@@ -18,7 +18,8 @@ namespace PatientNewsletter
             Patient p1 = new Patient();
             p1.PatientType = PatientType.Regular;          
             p1.Name = "Łukasz W";
-            p1.Address = new Address() { FullAddress = "Bukowno,"+ "Starczynowska" };
+            //p1.Address = new Address() { FullAddress = "Bukowno,"+ "Starczynowska" };
+            p1.Address = new Address() { FullAddress = "Bukowno, Starczynowska" };
             p1.Newsletter = new Newsletter() { IsSigned = true };
           
 
