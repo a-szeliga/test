@@ -21,17 +21,9 @@ namespace PatientNewsletter.Classes
         {
             Console.WriteLine("Pacjent o nazwie: " + Name);
             Console.WriteLine("Posiada adres: " + Address.FullAddress);
-            Console.WriteLine("Czy jest zapisany na newsletter: " + Newsletter.IsSigned);
+            Console.WriteLine("Czy jest zapisany na newsletter: " + (Newsletter.IsSigned ? "tak" : "nie"));
+            Console.WriteLine();
         }
 
     }
 }
-/*Napisać klasę Patient która będzie się składać z takich właściwości jak:
-PatientType o typie wyliczeniowym - typ wyliczeniowy będzie posiadał dwie wartości Regular i New.
-Name o typie string
-Adress o typie Adress
-Newsletter o typie Newsletter
-
-
-oraz klasa Patient będzie miała metodę publiczną o nazwie Display(), która wypisze na ekranie dane pacjenta według schematu podanego na zrzucie ekranu.
-*/

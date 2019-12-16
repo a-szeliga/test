@@ -8,16 +8,21 @@ namespace PatientNewsletter.Classes
 {
     public class Address
     {
+        private string _city;
+        private string _street;
+
         public string FullAddress { get; private set; }       
 
-        public Address(string _city, string _street)
+        public Address(string city, string street)
         {
-            PrepareAddress(_city, _street);
+            _city = city;
+            _street = street;
+            PrepareAddress();
         }
 
-        private void PrepareAddress(string city, string street)
+        private void PrepareAddress()
         {            
-            FullAddress = city + street;            
+            FullAddress = _city + _street;            
         }             
     }
 }            

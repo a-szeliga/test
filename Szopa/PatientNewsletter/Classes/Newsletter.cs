@@ -13,7 +13,7 @@ namespace PatientNewsletter.Classes
 
         private bool _isSigned;
     
-        public bool IsSigned { get { return _isSigned; } private set { } }
+        public bool IsSigned { get { return _isSigned; }  }
 
         public void SignIn()
         {
@@ -26,13 +26,3 @@ namespace PatientNewsletter.Classes
         }
     }
 }
-
-
-
-
-
-/*Klasa Newsletter będzie posiadać jedną właściwość bool IsSigned.Przypisanie wartości do tej właściwości nie powinno być możliwe.
-IsSigned będzie zwracać wartość  prywatnego pola bool _isSigned
-Ustawienie tego pola będzie odbywać się poprzez metody void SignIn() oraz void UnSign()
-Metody te będa ustawiać true lub false.
-*/
