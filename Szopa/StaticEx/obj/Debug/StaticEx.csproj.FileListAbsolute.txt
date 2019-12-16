@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\StaticEx\bin\Debug\StaticEx.exe.config
+D:\dev\Szopa\Szopa\StaticEx\bin\Debug\StaticEx.exe
+D:\dev\Szopa\Szopa\StaticEx\bin\Debug\StaticEx.pdb
+D:\dev\Szopa\Szopa\StaticEx\obj\Debug\StaticEx.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\StaticEx\obj\Debug\StaticEx.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\StaticEx\obj\Debug\StaticEx.exe
+D:\dev\Szopa\Szopa\StaticEx\obj\Debug\StaticEx.pdb
