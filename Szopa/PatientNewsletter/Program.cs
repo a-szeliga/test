@@ -27,7 +27,6 @@ namespace PatientNewsletter
             p2.Name = "Tomek W";
             p2.Address = new Address("Kraków, ", "Focha");
             p2.Newsletter = new Newsletter();
-            //p2.Newsletter.IsSigned = true;
             Patient p3 = new Patient();
             p3.PatientType = PatientType.New;
             p3.Name = "Krzysiek W";
@@ -55,6 +54,14 @@ namespace PatientNewsletter
             {
                 if (patients[i].PatientType == PatientType.Regular)
                  { patients[i].Newsletter.SignIn(); }
+
+                patients[i].Display();
+            }
+
+            for (int i = 0; i < patients.Length; i++)
+            {
+                if (patients[i].PatientType == PatientType.Regular)
+                { patients[i].Newsletter.SignIn(); }
 
                 patients[i].Display();
             }

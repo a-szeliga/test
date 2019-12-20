@@ -26,22 +26,32 @@ namespace StaticEx.Classes
     
     public class Home
     {
-        public readonly string room;
+        private readonly int y;
 
-        public string x (string room)
+        public Home(int Y)
         {
-           // room = room;
+            Y = y;
         }
+
+        public static string home; 
+      
         public static int RoomNumber { get; set; }
 
-        public string Owner{ get; set; }
+        public static string Owner{ get; set; }
 
+
+        
     }
 
     public static class Room
     {
         public static string Window;
-
+        public const int Value = 7;
+        
+        public static void Count()
+        {
+            Console.WriteLine("const: " +Value*8);
+        }
     }
 
     

@@ -14,7 +14,7 @@ namespace PropertyHmw
         {
              
             Person you = new Person();
-            you = new name"xx";
+            you = new name "xx";
 
 
             Console.WriteLine(you.Name);

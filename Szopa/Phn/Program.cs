@@ -13,9 +13,9 @@ namespace Phn
         static void Main(string[] args)
         {
 
-            GraphicCard graphiteCard1 = new GraphicCard(_cores: 4);
+            GraphicCard graphiteCard1 = new GraphicCard(cores: 4);
 
-            GraphicCard graphiteCard2 = new GraphicCard(_cores: 5);
+            GraphicCard graphiteCard2 = new GraphicCard(cores: 5);
 
             Processor processor1 = new Processor(structure: "IBM");
             processor1.Speed = 5;

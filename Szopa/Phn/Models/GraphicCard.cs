@@ -8,17 +8,35 @@ namespace Phn
 {
     public class GraphicCard
     {
-        private int cores;
-        public GraphicCard(int _cores)
-        {
-            cores = _cores;
-        }
+        public bool IsValid { get; private set; } = false;
+        private int _cores;
+        //public GraphicCard(int cores)
+        //{
+        //    if (cores > 0 && cores < 8 )
+        //    {
+        //        IsValid = true;
+        //    }
+        //    _cores = cores;
+        //}
 
         public int Cores
-        { get { return cores; }
+        {
+            get
+            {
+                if (!IsValid)
+                {
+                    throw new Exception("not valid GraphicCard");
+                }
+                return _cores; }
 
-         //   private set { }
+            private set
+            {
+                if (value > 0 && value < 8)
+                {
+                    IsValid = true;
+                }
+                _cores = value;
+            }
         }
-
     }
 }
