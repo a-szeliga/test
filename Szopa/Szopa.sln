@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phn", "Phn\Phn.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientNewsletter", "PatientNewsletter\PatientNewsletter.csproj", "{78517DCD-228E-4A6B-B987-60571AE11FFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{062E1CBF-5F92-4943-960E-29EDC209DEE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{78517DCD-228E-4A6B-B987-60571AE11FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78517DCD-228E-4A6B-B987-60571AE11FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78517DCD-228E-4A6B-B987-60571AE11FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062E1CBF-5F92-4943-960E-29EDC209DEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062E1CBF-5F92-4943-960E-29EDC209DEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062E1CBF-5F92-4943-960E-29EDC209DEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062E1CBF-5F92-4943-960E-29EDC209DEE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
