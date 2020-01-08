@@ -9,8 +9,8 @@ namespace PatientNewsletter.Classes
     public class Address
     {
         private string _city;
-        private string _street;
-
+        
+private string _street;
         public string FullAddress { get; private set; }       
 
         public Address(string city, string street)

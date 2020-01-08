@@ -1,0 +1,10 @@
+D:\dev\Szopa\Szopa\OrdersLogger\obj\Debug\OrdersLogger.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\OrdersLogger\obj\Debug\OrdersLogger.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\OrdersLogger\bin\Debug\OrdersLogger.exe.config
+D:\dev\Szopa\Szopa\OrdersLogger\bin\Debug\OrdersLogger.exe
+D:\dev\Szopa\Szopa\OrdersLogger\bin\Debug\OrdersLogger.pdb
+D:\dev\Szopa\Szopa\OrdersLogger\bin\Debug\Newtonsoft.Json.dll
+D:\dev\Szopa\Szopa\OrdersLogger\bin\Debug\Newtonsoft.Json.xml
+D:\dev\Szopa\Szopa\OrdersLogger\obj\Debug\OrdersLogger.csproj.CopyComplete
+D:\dev\Szopa\Szopa\OrdersLogger\obj\Debug\OrdersLogger.exe
+D:\dev\Szopa\Szopa\OrdersLogger\obj\Debug\OrdersLogger.pdb
