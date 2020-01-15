@@ -26,9 +26,9 @@ namespace OrdersLogger
             orderService.Add(order2);
             orderService.Add(order3);
 
-            orderService.GetAll("logs.txt");
-            //fileLogger.Log("logs.txt");
-            fileLogger.ReadLogs();
+            Console.WriteLine(orderService.GetAll());
+            Console.WriteLine(fileLogger.ReadLogs());
+
             Console.ReadLine();
         }
     }
