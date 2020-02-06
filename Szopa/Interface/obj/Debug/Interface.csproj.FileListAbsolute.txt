@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Interface\bin\Debug\Interface.exe.config
+D:\dev\Szopa\Szopa\Interface\bin\Debug\Interface.exe
+D:\dev\Szopa\Szopa\Interface\bin\Debug\Interface.pdb
+D:\dev\Szopa\Szopa\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Interface\obj\Debug\Interface.exe
+D:\dev\Szopa\Szopa\Interface\obj\Debug\Interface.pdb
