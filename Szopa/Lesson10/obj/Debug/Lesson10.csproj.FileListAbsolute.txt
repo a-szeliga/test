@@ -1,0 +1,7 @@
+D:\dev\Szopa\Szopa\Lesson10\bin\Debug\Lesson10.exe.config
+D:\dev\Szopa\Szopa\Lesson10\bin\Debug\Lesson10.exe
+D:\dev\Szopa\Szopa\Lesson10\bin\Debug\Lesson10.pdb
+D:\dev\Szopa\Szopa\Lesson10\obj\Debug\Lesson10.csprojAssemblyReference.cache
+D:\dev\Szopa\Szopa\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
+D:\dev\Szopa\Szopa\Lesson10\obj\Debug\Lesson10.exe
+D:\dev\Szopa\Szopa\Lesson10\obj\Debug\Lesson10.pdb
