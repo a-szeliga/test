@@ -11,40 +11,38 @@ namespace OrdersLogger.Classes
     public class OrderService
     {
 
-        private readonly OrderDiscount Discount;
-        private readonly FileLogger Logger;
+        private readonly OrderDiscount _discount;
+        private readonly FileLogger _logger;
 
         public OrderService(OrderDiscount discount, FileLogger logger)
         {
-            Discount = discount;
-            Logger = logger;
+            _discount = discount;
+            _logger = logger;
         }
 
         public void Add(Order order)
         {
             if (order.ShouldAddDiscount == true)
             {
-                OrderDiscount orderDiscount = new OrderDiscount();
-                orderDiscount.CalculateDiscount(order);
+               // OrderDiscount orderDiscount = new OrderDiscount();
+                _discount.CalculateDiscount(order);
             }
-
-           
+         
             string orderJson = JsonConvert.SerializeObject(order);
-            File.WriteAllText("orders.txt", orderJson);
-            
+
             using (StreamWriter sw = File.AppendText("orders.txt"))
             {
+                sw.WriteLine(orderJson);
+            }
                 FileLogger fileLogger = new FileLogger();
-
-
-                fileLogger.Log("Dodano zlecenie: " + orderJson);
+                _logger.Log("Dodano zlecenie: " + orderJson);
 
                 if (order.ShouldAddDiscount == true)
                 {
-                    fileLogger.Log("Rabat wynosił: " + OrderDiscount.Discount);
+                    _logger.Log("Rabat wynosił: " + OrderDiscount.Discount);
                 }
-                sw.Close();
-            }
+              
+            
         }
         public string GetAll()
         {

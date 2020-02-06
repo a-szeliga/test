@@ -1,0 +1,12 @@
+{"Name":"Zakup glebogryzarki","Price":16.0,"ShouldAddDiscount":true}{"Name":"Zakup ciągnika ","Price":400.0,"ShouldAddDiscount":true}
+{"Name":"Zakup walca ","Price":3000.0,"ShouldAddDiscount":false}
+{"Name":"Zakup glebogryzarki","Price":16.0,"ShouldAddDiscount":true}
+{"Name":"Zakup ciągnika ","Price":400.0,"ShouldAddDiscount":true}
+{"Name":"Zakup walca ","Price":3000.0,"ShouldAddDiscount":false}
+{"Name":"Zakup glebogryzarki","Price":16.0,"ShouldAddDiscount":true}
+{"Name":"Zakup ciągnika ","Price":400.0,"ShouldAddDiscount":true}
+{"Name":"Zakup walca ","Price":3000.0,"ShouldAddDiscount":false}
+{"Name":"Zakup glebogryzarki","Price":16.0,"ShouldAddDiscount":true}
+{"Name":"Zakup ciągnika ","Price":400.0,"ShouldAddDiscount":true}
+{"Name":"Zakup walca ","Price":3000.0,"ShouldAddDiscount":false}
+{"Name":"Zakup glebogryzarki","Price":16.0,"ShouldAddDiscount":true}

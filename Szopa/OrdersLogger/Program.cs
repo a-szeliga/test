@@ -17,10 +17,8 @@ namespace OrdersLogger
             Order order3 = new Order("Zakup glebogryzarki", 80.0, true);
 
             OrderDiscount discount = new OrderDiscount();
-
             FileLogger fileLogger = new FileLogger();
             OrderService orderService = new OrderService(discount, fileLogger);
-
 
             orderService.Add(order1);
             orderService.Add(order2);

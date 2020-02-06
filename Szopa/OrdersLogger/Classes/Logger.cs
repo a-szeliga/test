@@ -22,8 +22,11 @@ namespace OrdersLogger.Classes
     {
         public override void Log(string message)
         {
-            File.WriteAllText("logs.txt", message);
-            base.Log(message);
+            using (StreamWriter sw = File.AppendText("logs.txt"))
+            {
+                sw.WriteLine(message);
+            }
+                base.Log(message);
         }
 
         public override string ReadLogs()
